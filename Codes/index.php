@@ -158,8 +158,8 @@
             <div class="form-group">
                 <label for="user-type">User Type</label>
                 <select id="user-type">
-                    <option value="admin">Admin</option>
-                    <option value="user">Regular User</option>
+                    <option value="admin">Regular User</option>
+                    <option value="user">Admin</option>
                 </select>
             </div>
         
