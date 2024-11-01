@@ -14,6 +14,7 @@ This repository is created as a simple exercise for students who want to advance
   - Return previously borrowed books.
   - Borrow new books (note: a user cannot borrow more than 3 books at a time).
 - **Admin Access**: There is a special login section for admin users. If a user logs in with the admin password, they can view which user has borrowed each book.
+- **Automatic Return**: Books are automatically marked as returned if not returned manually within 14 days of the reservation date.
 
 ---
 
